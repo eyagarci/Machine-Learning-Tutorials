@@ -1,7 +1,7 @@
 # Machine-Learning-Tutorials
 
 ## Introduction
-This repositery aims to provide a simple and a comprehensive tutorials for machine learning algorithms. 
+This repository aims to provide a simple and a comprehensive tutorials for machine learning algorithms. 
 
 ## Motivation
 Machine Learning, as a tool for Artificial Intelligence, is one of the most widely adopted scientific fields. A considerable amount of literature has been published on Machine Learning. The purpose of this project is to provide the most important aspects of Machine Learning by presenting a series of simple and yet comprehensive tutorials. In this project, we built our tutorials using many different well-known Machine Learning frameworks such as Scikit-learn. 
