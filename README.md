@@ -21,6 +21,7 @@ The intention of the provided notebooks is to provide a basic understanding of t
 - K-means
 - Hierarchical clustering
 - PCA
+- Apriori algorithm
 
 ## Datasets
 The list of datasets using in the different notebooks is be found in data folder.
