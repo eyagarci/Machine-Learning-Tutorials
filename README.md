@@ -15,7 +15,6 @@ The intention of the provided notebooks is to provide a basic understanding of t
 - Knn
 - SVM
 - Decision Tree
-- Recommendation Engine
 
 ### Unsupervised Learning
 - K-means
